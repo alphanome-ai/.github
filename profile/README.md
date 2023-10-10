@@ -6,4 +6,3 @@ At Alphanome.AI, we envision a future where financial decision-making is simplif
 [Watch the video](https://www.youtube.com/watch?v=bLLw5nR2UOU&t=3s) <img width="1152" alt="Screenshot 2023-10-09 at 23 46 42" src="https://github.com/alphanome-ai/.github/assets/127743728/f40aca07-0cdf-4bf7-afbe-e1b4e22cd41f">
 
 👩‍💻 Join the project and discussions [here](https://github.com/alphanome-ai/sec-ai/discussions)
--->
