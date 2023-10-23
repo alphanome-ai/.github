@@ -5,4 +5,4 @@ At Alphanome.AI, we envision a future where financial decision-making is simplif
 
 https://github.com/alphanome-ai/.github/assets/127743728/a512330e-8167-4a5b-a3fc-05a466eee4e4
 
-👩‍💻 Join the project and discussions [here](https://github.com/alphanome-ai/sec-ai/discussions)
+👩‍💻 Join the project and discussions [here](https://discord.gg/SyVKHbd6)
